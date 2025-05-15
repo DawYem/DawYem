@@ -1,16 +1,40 @@
-## Hi there 👋
+#  Hi, I'm Dawit
 
-<!--
-**DawYem/DawYem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio! I'm a Computer Science major at Augusta University from Metro Atlanta, passionate about building technology that makes a difference. I love working on projects related to **software engineering**, **data science**, and **cloud technologies**, and I'm always exploring new tools, frameworks, and ideas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 I code in **Python**, **C#**, and **HTML/CSS**
+- 🌱 Currently learning: **Python OOP**, **Data Structures & Algorithms**, and **Machine Learning (with PyTorch, NumPy, Streamlit)**
+- 📚 Studying: **CodePath's Data Structures & Algorithms Course** this summer
+- ☁️ Exploring: **AWS**, **Azure**, and **Google Cloud**
+- 🎯 Current Career Goals: Microsoft Explore/STEP, Google STEP, Amazon Propel Internships
+- 🎯 Future Career Goals: Software Engineer 💻
+
+---
+
+## 🧠 Skills & Interests
+
+- **Languages**: Python, C#, SQL (learning), Java (planning)
+- **Tools & Frameworks**: Git/GitHub, VS Code, Unity (beginner), Django (learning), React (learning)
+- **Interests**: Full-stack development, Machine Learning, Cloud Computing, Game Development
+
+---
+
+
+## 🧩 What I'm Working On
+
+- Building full-stack applications to reinforce backend + frontend skills  
+- Practicing LeetCode problems daily alongside CodePath’s DSA course  
+- Studying Python libraries for ML like NumPy and PyTorch  
+- Preparing for cloud certifications like AWS Cloud Practitioner & Azure Fundamentals  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: dawitkidaneyemane@gmail.com
+- 💼 [LinkedIn]: www.linkedin.com/in/dawityemane
+- 🌐 [Portfolio Website]: In PROGRESS!
