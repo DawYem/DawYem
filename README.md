@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio! I'm a Computer Science major at Augusta Universi
 
 - 💻 I code in **Python**, **C#**, and **HTML/CSS**
 - 🌱 Currently learning: **Python OOP**, **Data Structures & Algorithms**, and **Machine Learning (with PyTorch, NumPy, Streamlit)**
-- 📚 Studying: **CodePath's Data Structures & Algorithms Course** this summer
+- 📚 Studying: **Data Structures & Algorithms**
 - ☁️ Exploring: **AWS**, **Azure**, and **Google Cloud**
 - 🎯 Current Career Goals: Microsoft Explore/STEP, Google STEP, Amazon Propel Internships
 - 🎯 Future Career Goals: Software Engineer 💻
@@ -28,7 +28,7 @@ Welcome to my GitHub portfolio! I'm a Computer Science major at Augusta Universi
 
 - Building full-stack applications to reinforce backend + frontend skills  
 - Practicing LeetCode problems daily alongside CodePath’s DSA course  
-- Studying Python libraries for ML like NumPy and PyTorch  
+- Studying Python libraries for ML like NumPy, Pytorch, Tensorflow  
 - Preparing for cloud certifications like AWS Cloud Practitioner & Azure Fundamentals  
 
 ---
