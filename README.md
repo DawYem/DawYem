@@ -36,4 +36,4 @@ Welcome to my GitHub portfolio! I'm a Computer Science major at Augusta Universi
 
 - 📧 Email: dawitkidaneyemane@gmail.com
 - 💼 [LinkedIn]: www.linkedin.com/in/dawityemane
-- 🌐 [Portfolio Website]: In PROGRESS!
+- 🌐 [Portfolio Website]: https://dawityemane.netlify.app/
