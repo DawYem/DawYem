@@ -1,6 +1,6 @@
 #  Hi, I'm Dawit
 
-Welcome to my GitHub portfolio! I'm a Computer Science major at Augusta University from Metro Atlanta, passionate about building technology that makes a difference. I love working on projects related to **software engineering**, **AI**, and **cloud technologies**, and I'm always exploring new tools, frameworks, and ideas.
+Welcome to my GitHub portfolio! I'm a Computer Science major at The Georgia Institute of Technology from Metro Atlanta, passionate about building technology that makes a difference. I love working on projects related to **software engineering**, **AI**, and **cloud technologies**, and I'm always exploring new tools, frameworks, and ideas.
 
 ---
 
