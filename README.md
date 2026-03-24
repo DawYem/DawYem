@@ -6,11 +6,11 @@ Welcome to my GitHub portfolio! I'm a Computer Science major at The Georgia Inst
 
 ## 🚀 About Me
 
-- 💻 I code in **Python**, **C#**, and **HTML/CSS**
+- 💻 I code in **Python**, **Java**, **C++**, **C#**, and **HTML/CSS**
 - 🌱 Currently learning: **Python OOP**, **Data Structures & Algorithms**, **Cloud Based Tools**
 - 📚 Studying: **Data Structures & Algorithms**
 - ☁️ Exploring: **AWS**, **Azure**, and **Google Cloud**
-- 🎯 Current Career Goals: Microsoft Explore/STEP, Google STEP, General Software Engineering, or Security Engineering Internships
+- 🎯 Current Career Goals: General Software Engineering, or Security Engineering Internships
 - 🎯 Future Career Goals: Software Engineer 💻
 
 ---
