@@ -17,7 +17,7 @@ Welcome to my GitHub portfolio! I'm a Computer Science major at The Georgia Inst
 
 ## 🧠 Skills & Interests
 
-- **Languages**: Python, C#, HTML/CSS
+- **Languages**: Python, Java, C++, C#, HTML/CSS
 - **Tools & Frameworks**: Git/GitHub, VS Code, Flask, Unity
 - **Interests**: Full-stack development, AI , Cloud Computing, Security
 
