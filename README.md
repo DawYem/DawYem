@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I'm a Computer Science major at The Georgia Inst
 
 ## 🚀 About Me
 
-- 💻 I code in **Python**, **Java**, **C++**, **C#**, and **HTML/CSS**
+- 💻 I code in **Python**, **Java**, **C++**, **C#**,**JavaScript**, and **HTML/CSS**
 - 🌱 Currently learning: **Python OOP**, **Data Structures & Algorithms**, **Cloud Based Tools**
 - 📚 Studying: **Data Structures & Algorithms**
 - ☁️ Exploring: **AWS**, **Azure**, and **Google Cloud**
@@ -17,9 +17,9 @@ Welcome to my GitHub portfolio! I'm a Computer Science major at The Georgia Inst
 
 ## 🧠 Skills & Interests
 
-- **Languages**: Python, Java, C++, C#, HTML/CSS
-- **Tools & Frameworks**: Git/GitHub, VS Code, Flask, Unity
-- **Interests**: Full-stack development, AI , Cloud Computing, Security
+- **Languages**: Python, Java, C++, C#, JavaScript, HTML/CSS
+- **Tools & Frameworks**: React, Node.js, Flask, Git/Github, Neon, Render, Vercel, AWS
+- **Interests**: Full-stack development, AI, Cloud Computing, Security
 
 ---
 
